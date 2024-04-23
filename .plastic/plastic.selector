@@ -1,0 +1,4 @@
+repository "Pixel Art Game@thetent1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
